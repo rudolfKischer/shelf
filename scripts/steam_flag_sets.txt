@@ -1,0 +1,5 @@
+baseline|
+silent|-silent
+silent_nofriends|-silent -nofriendsui
+silent_lean|-silent -nofriendsui -noverifyfiles -norepairfiles -nobootstrapperupdate
+silent_lean_cef|-silent -nofriendsui -noverifyfiles -norepairfiles -nobootstrapperupdate -cef-disable-site-isolation

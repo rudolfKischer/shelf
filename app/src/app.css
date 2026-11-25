@@ -1,0 +1,48 @@
+:root {
+  --bg: #0e1015;
+  --surface: #171a21;
+  --surface-raised: #20242d;
+  --text: #e8ebf1;
+  --muted: #8b93a3;
+  --accent: #7aa2ff;
+  --danger: #ff7a7a;
+  --radius: 10px;
+  --tile-ratio: 1.5;
+  --gap: 20px;
+  --tile-min: 168px;
+  --focus-ring: 3px;
+  font-family: -apple-system, BlinkMacSystemFont, "SF Pro Text", system-ui, sans-serif;
+  color-scheme: dark;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body,
+#app {
+  height: 100%;
+  margin: 0;
+}
+
+body {
+  background: var(--bg);
+  color: var(--text);
+  overflow: hidden;
+  user-select: none;
+  -webkit-user-select: none;
+}
+
+button {
+  font: inherit;
+  color: inherit;
+  background: none;
+  border: 0;
+  cursor: pointer;
+}
+
+::-webkit-scrollbar {
+  width: 0;
+  height: 0;
+}

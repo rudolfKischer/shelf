@@ -1,0 +1,27 @@
+{
+  "loading": "Loading library",
+  "empty": "Nothing here yet",
+  "shelfAll": "All",
+  "shelfInstalled": "Installed",
+  "sortLabel": "Sort",
+  "gamesCount": "games",
+  "sorts": {
+    "name": "Name",
+    "lastPlayed": "Last played",
+    "playtime": "Time played",
+    "rating": "Rating",
+    "release": "Release date",
+    "size": "Size on disk"
+  },
+  "glyphs": {
+    "installed": "Installed",
+    "notInstalled": "Not installed",
+    "mac": "Runs natively on Mac",
+    "windows": "Windows only, runs through Wine",
+    "blocked": "Blocked under Wine",
+    "gamepad": "Controller supported",
+    "keyboard": "Keyboard and mouse",
+    "people": "Local multiplayer",
+    "globe": "Online multiplayer"
+  }
+}

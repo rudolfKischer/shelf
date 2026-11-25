@@ -1,0 +1,48 @@
+{
+  "steam_root_relative_to_home": "Library/Application Support/Steam",
+  "highball_bottles_relative_to_home": "Library/Application Support/Highball/bottles",
+  "wine_steam_relative_to_bottle": "drive_c/Program Files (x86)/Steam",
+  "highball_data_relative_to_home": "Library/Application Support/Highball",
+  "highball_launch_token_file": "launch-token",
+  "highball_app_candidates": [
+    "Applications/Highball.app",
+    "/Applications/Highball.app"
+  ],
+  "highball_db_relative_to_app": "Contents/Resources/db-games",
+  "steam_run_url_template": "steam://run/{app_id}",
+  "steam_install_url_template": "steam://install/{app_id}",
+  "highball_play_url_template": "highball://play/steam/{app_id}?t={token}",
+  "highball_open_steam_url_template": "highball://open/launcher/steam?t={token}",
+  "library_cache_dir": "appcache/librarycache",
+  "app_info_file": "appcache/appinfo.vdf",
+  "steamapps_dir": "steamapps",
+  "library_folders_file": "libraryfolders.vdf",
+  "manifest_prefix": "appmanifest_",
+  "manifest_extension": "acf",
+  "user_data_dir": "userdata",
+  "user_config_dir": "config",
+  "local_config_file": "localconfig.vdf",
+  "collections_file": "cloudstorage/cloud-storage-namespace-1.json",
+  "collection_key_prefix": "user-collections.",
+  "local_config_apps_path": [
+    "Software",
+    "Valve",
+    "Steam",
+    "apps"
+  ],
+  "fully_installed_flag": 4,
+  "game_type": "game",
+  "os_list_separator": ",",
+  "art_capsule_files": [
+    "library_600x900.jpg",
+    "library_capsule.jpg"
+  ],
+  "art_hero_files": [
+    "library_hero.jpg"
+  ],
+  "art_logo_files": [
+    "logo.png"
+  ],
+  "art_cdn_capsule_template": "https://cdn.akamai.steamstatic.com/steam/apps/{app_id}/library_600x900.jpg",
+  "art_cdn_hero_template": "https://cdn.akamai.steamstatic.com/steam/apps/{app_id}/library_hero.jpg"
+}

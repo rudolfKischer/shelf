@@ -1,0 +1,13 @@
+"AppState"
+{
+	"appid"		"1030300"
+	"name"		"Hollow Knight: Silksong"
+	"StateFlags"		"4"
+	"installdir"		"Hollow Knight Silksong"
+	"LastPlayed"		"1766128221"
+	"SizeOnDisk"		"8260628780"
+	"UserConfig"
+	{
+		"language"		"english"
+	}
+}

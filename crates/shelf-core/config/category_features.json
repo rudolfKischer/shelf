@@ -1,0 +1,14 @@
+{
+  "single_player": [2],
+  "multiplayer": [1],
+  "coop": [9],
+  "online_coop": [38],
+  "local_coop": [39],
+  "shared_screen": [24],
+  "local_pvp": [37],
+  "online_pvp": [36],
+  "cross_platform": [27],
+  "remote_play_together": [44],
+  "full_controller": [28],
+  "partial_controller": [18]
+}

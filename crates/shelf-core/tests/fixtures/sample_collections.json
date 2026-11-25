@@ -1,0 +1,6 @@
+[
+  ["user-collections.favorite", {"key": "user-collections.favorite", "timestamp": 1671697503, "value": "{\"id\":\"favorite\",\"name\":\"Favorites\",\"added\":[504230],\"removed\":[]}", "version": "287"}],
+  ["user-collections.uc-ZHfGvqjgNPdD", {"key": "user-collections.uc-ZHfGvqjgNPdD", "timestamp": 1795533116, "value": "{\"id\":\"uc-ZHfGvqjgNPdD\",\"name\":\"GEMS\",\"added\":[413150,504230],\"removed\":[]}", "version": "1485"}],
+  ["user-collections.uc-deleted", {"key": "user-collections.uc-deleted", "timestamp": 1795600000, "is_deleted": true, "version": "1500"}],
+  ["showcases", {"key": "showcases", "timestamp": 1, "value": "{}", "version": "1"}]
+]

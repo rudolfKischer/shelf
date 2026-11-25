@@ -1,0 +1,15 @@
+pub const APP_INFO: &str = "appinfo";
+pub const COMMON: &str = "common";
+pub const NAME: &str = "name";
+pub const KIND: &str = "type";
+pub const OS_LIST: &str = "oslist";
+pub const CONTROLLER_SUPPORT: &str = "controller_support";
+pub const CATEGORY: &str = "category";
+pub const CATEGORY_KEY_PREFIX: &str = "category_";
+pub const STORE_TAGS: &str = "store_tags";
+pub const GENRES: &str = "genres";
+pub const REVIEW_PERCENTAGE: &str = "review_percentage";
+pub const METACRITIC_SCORE: &str = "metacritic_score";
+pub const RELEASE_DATE: &str = "steam_release_date";
+pub const DECK_COMPATIBILITY: &str = "steam_deck_compatibility";
+pub const DECK_CATEGORY: &str = "category";

@@ -1,0 +1,18 @@
+[package]
+name = "shelf-app"
+version = "0.1.0"
+edition.workspace = true
+
+[lib]
+name = "shelf_app_lib"
+crate-type = ["rlib"]
+
+[build-dependencies]
+tauri-build = { version = "2", features = [] }
+
+[dependencies]
+tauri = { version = "2", features = ["protocol-asset"] }
+shelf-core = { path = "../../crates/shelf-core" }
+
+[features]
+custom-protocol = ["tauri/custom-protocol"]
